@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=chee-i3
+Comment=improved dynamic tiling window manager
+Exec=chee-i3
+TryExec=chee-i3
+Type=Application
+X-LightDM-DesktopName=i3
+DesktopNames=i3
+Keywords=tiling;wm;windowmanager;window;manager;
