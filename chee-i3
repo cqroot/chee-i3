@@ -3,4 +3,4 @@
 I3PATH=$(cd -- "$(dirname -- "${BASH_SOURCE[0]}")" &>/dev/null && pwd)
 export I3PATH
 
-exec i3 -c "$HOME/.config/chee-i3/i3/config"
+exec i3 -c "${I3PATH}/i3/config"

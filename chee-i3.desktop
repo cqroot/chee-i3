@@ -2,8 +2,8 @@
 Name=chee-i3
 Comment=improved dynamic tiling window manager
 Exec=chee-i3
-TryExec=chee-i3
+TryExec=i3
 Type=Application
-X-LightDM-DesktopName=i3
-DesktopNames=i3
+X-LightDM-DesktopName=chee-i3
+DesktopNames=chee-i3
 Keywords=tiling;wm;windowmanager;window;manager;
