@@ -2,9 +2,9 @@ set $mod Mod4
 
 font pango:Caskaydia Cove Nerd Font 11
 
-default_border pixel 2
-default_floating_border normal
-hide_edge_borders none
+default_border pixel 1
+default_floating_border pixel 1
+hide_edge_borders smart
 for_window [urgent=latest] focus
 
 include ${I3PATH}/i3/colors.conf
